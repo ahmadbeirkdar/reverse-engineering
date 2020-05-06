@@ -6,4 +6,6 @@ Ghidra
 
 IDA Pro
 
+Python3(To write small scripts)
+
 Parellals Desktop to virtualize windows and linux
